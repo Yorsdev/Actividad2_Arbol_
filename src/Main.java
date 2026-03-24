@@ -19,6 +19,6 @@ public static void main(String[] args) {
     System.out.println("====  BÚSQUEDA Y MUESTRA  ====");
     //Se busca y muestra el valor ingresado manualmente
     arbol.buscarYMostrar(4);
-    arbol.buscarYMostrar(5);
+    arbol.buscarYMostrar(88);
     arbol.buscarYMostrar(7);
 }

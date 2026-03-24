@@ -44,7 +44,7 @@ public class Arbol {
                 aux = aux.derecha;
             }
         }
-        return true;
+        return false;
     }
 
 
